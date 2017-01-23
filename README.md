@@ -1,2 +1,2 @@
 # hello_world
-Just an example repository
+Changes to see a commit, it is just an example
